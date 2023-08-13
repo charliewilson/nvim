@@ -9,7 +9,7 @@ local map = vim.api.nvim_set_keymap
 -- a blank buffer when you close the last one.
 map(
   "n",
-  "<C-x>",
+  "q",
   ":bp<bar>sp<bar>bn<bar>bd<CR>",
   { noremap = true, silent = true, desc = "Close 'tab' (VS-Code style buffer closing)" }
 )
