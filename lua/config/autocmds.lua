@@ -3,3 +3,4 @@
 -- Add any additional autocmds here
 
 vim.api.nvim_command(":set title")
+vim.api.nvim_command(":set linebreak")
