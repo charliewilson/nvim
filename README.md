@@ -9,7 +9,7 @@ starter template - so you can refer to the [LazyVim documentation](https://lazyv
 if you want to use this for your personal config as well.
 
 ## Additional Steps
-Install the following using `mason` (<leader>cm)
+Install the following using Mason `<leader>cm`
 ```
 php-cs-fixer
 php-debug-adapter
